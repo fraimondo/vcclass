@@ -6,8 +6,15 @@ This manuscript has been written by:
 2. Vera Komeyer
 3. Alan Turing
 4. Ada Lovelace
-5. Tobias Muganga
-6. Susanne Weis
-7. Sam Vickery
-8. Sami Hamdan
-9. Farl Kriston
+5. Susanne Weis
+6. Tobias Muganga
+7. Sam Vickery7. Xuan Li
+8. Tobias Muganga
+9. Susanne Weis
+10. Sam Vickery
+11. Sami Hamdan
+12. Farl Kriston
+13. Vera
+14. Sami Hamdan
+15. Lya Paas
+16. Xuan Li
