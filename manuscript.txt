@@ -8,4 +8,4 @@ This manuscript has been written by:
 4. Ada Lovelace
 5. Susanne Weis
 6. Tobias Muganga
-6. Sam Vickery
+6. Sam Vickery7. Xuan Li
