@@ -1,5 +1,4 @@
-
-## Authors.
+ Authors.
 
 This manuscript has been written by:
 1. Fede Raimondo
@@ -24,3 +23,7 @@ This manuscript has been written by:
 17. Georgios
 19. Lisa Mochalski
 20. Xueru Niu
+21. Amir Omidvarnia
+22. Anja K
+23. Another name
+24. Shammi More
