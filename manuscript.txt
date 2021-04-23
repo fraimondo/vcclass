@@ -7,3 +7,4 @@ This manuscript has been written by:
 3. Alan Turing
 4. Ada Lovelace
 5. Tobias Muganga
+6. Sami Hamdan
