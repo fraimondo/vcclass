@@ -1,1 +1,2 @@
 add a first line
+add another line to test a conflict
