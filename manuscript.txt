@@ -9,3 +9,5 @@ This manuscript has been written by:
 4. Ada Lovelace
 5. Tobias Muganga
 7. Antonopoulos Georgios
+6. Sam Vickery
+
