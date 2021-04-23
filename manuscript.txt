@@ -6,3 +6,5 @@ This manuscript has been written by:
 2. Vera Komeyer
 3. Alan Turing
 4. Ada Lovelace
+5. Susanne Weis
+
