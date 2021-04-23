@@ -10,11 +10,7 @@ This manuscript has been written by:
 5. Susanne Weis
 6. Tobias Muganga
 6. Sam Vickery7. Xuan Li
-Xuan Li
->>>>>>> dcb0bc3907c46dd531c9228cc2b672abebb75a7e
-Xuan Li
->>>>>>> 12cf2c677af6297f586d073379644838925023cf
-=======
+6.5 Xuan Li
 7. Sam Vickery7. Xuan Li
 8. Tobias Muganga
 9. Susanne Weis
@@ -25,5 +21,9 @@ Xuan Li
 14. Sami Hamdan
 15. Lya Paas
 16. Xuan Li
+<<<<<<< HEAD
 >>>>>>> efcbca5d6754159fa1f44f207acd377742697c57
 17. Lis Wiersch
+=======
+17. Georgios
+>>>>>>> 9b5b90ae277feb86be52b9a5f49b8a2487d1c6ba
