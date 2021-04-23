@@ -5,10 +5,6 @@ This manuscript has been written by:
 2. Vera Komeyer
 3. Alan Turing
 4. Ada Lovelace
-<<<<<<< HEAD
-
-=======
->>>>>>> a4abe0183304e2ed4aed3596d88e5d8605509fce
 5. Susanne Weis
 6. Tobias Muganga
 6. Sam Vickery7. Xuan Li
@@ -28,7 +24,4 @@ This manuscript has been written by:
 19. Lisa Mochalski
 20. Xueru Niu
 21. Amir Omidvarnia
-<<<<<<< HEAD
 22. Anja K
-=======
->>>>>>> a4abe0183304e2ed4aed3596d88e5d8605509fce
