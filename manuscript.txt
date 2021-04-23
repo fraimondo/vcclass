@@ -1,8 +1,1 @@
-
-## Authors.
-
-This manuscript has been written by:
-1. Fede Raimondo
-2. Vera Komeyer
-3. Alan Turing
-LisaMochalski
+## Authors.This manuscript has been written by:1. Fede Raimondo2. Vera Komeyer3. Alan Turing4. Ada Lovelace5. Tobias Muganga6. Susanne Weis7. Sam Vickery8. Sami Hamdan9. Lisa Mochalski
