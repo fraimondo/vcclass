@@ -7,4 +7,6 @@ This manuscript has been written by:
 3. Alan Turing
 4. Ada Lovelace
 5. Tobias Muganga
-6. Vera
+6. Susanne Weis
+7. Sam Vickery
+8. Vera
