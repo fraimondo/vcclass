@@ -7,9 +7,10 @@ This manuscript has been written by:
 4. Ada Lovelace
 5. Susanne Weis
 6. Tobias Muganga
-6. Sam Vickery7. Xuan Li
-6.5 Xuan Li
-7. Sam Vickery7. Xuan Li
+6. Sam Vickery
+7. Xuan Li
+7. Sam Vickery
+7. Xuan Li
 8. Tobias Muganga
 9. Susanne Weis
 10. Sam Vickery
