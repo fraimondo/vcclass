@@ -1,3 +1,4 @@
+=======
 
 ## Authors.
 
@@ -5,3 +6,6 @@ This manuscript has been written by:
 1. Fede Raimondo
 2. Vera Komeyer
 3. Alan Turing
+4. Ada Lovelace
+5. Tobias Muganga
+7. Antonopoulos Georgios
