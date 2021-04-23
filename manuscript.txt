@@ -5,4 +5,11 @@ This manuscript has been written by:
 1. Fede Raimondo
 2. Vera Komeyer
 3. Alan Turing
-4. Lya Paas
+4. Ada Lovelace
+5. Tobias Muganga
+6. Susanne Weis
+7. Sam Vickery
+8. Vera
+9. Sami Hamdan
+10. Lya Paas
+>>>>>>> 1faf481f84fa390348525211e220800d1fb7d571
