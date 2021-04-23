@@ -21,8 +21,5 @@ This manuscript has been written by:
 16. Xuan Li
 17. Lisa Wiersch
 17. Georgios
-<<<<<<< HEAD
 19. Lisa Mochalski
-=======
->>>>>>> 9b5b90ae277feb86be52b9a5f49b8a2487d1c6ba
 20. Xueru Niu
