@@ -1,37 +1,10 @@
-## Authors.
+ Authors.
 
 This manuscript has been written by:
 1. Fede Raimondo
 2. Vera Komeyer
 3. Alan Turing
 4. Ada Lovelace
-<<<<<<< HEAD
-
-=======
->>>>>>> a4abe0183304e2ed4aed3596d88e5d8605509fce
-5. Susanne Weis
-6. Tobias Muganga
-6. Sam Vickery7. Xuan Li
-6.5 Xuan Li
-7. Sam Vickery7. Xuan Li
-8. Tobias Muganga
-9. Susanne Weis
-10. Sam Vickery
-11. Sami Hamdan
-12. Farl Kriston
-13. Vera
-14. Sami Hamdan
-15. Lya Paas
-16. Xuan Li
-17. Lisa Wiersch
-17. Georgios
-19. Lisa Mochalski
-20. Xueru Niu
-21. Amir Omidvarnia
-<<<<<<< HEAD
-22. Anja K
-=======
->>>>>>> a4abe0183304e2ed4aed3596d88e5d8605509fce
 5. Susanne Weis
 6. Tobias Muganga
 6. Sam Vickery7. Xuan Li
