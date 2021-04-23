@@ -23,7 +23,7 @@ This manuscript has been written by:
 16. Xuan Li
 <<<<<<< HEAD
 >>>>>>> efcbca5d6754159fa1f44f207acd377742697c57
-17. Lis Wiersch
+17. Lisa Wiersch
 =======
 17. Georgios
 >>>>>>> 9b5b90ae277feb86be52b9a5f49b8a2487d1c6ba
