@@ -27,3 +27,4 @@ This manuscript has been written by:
 22. Anja K
 24. Shammi More
 25. Kimia Nazarzadeh
+26. Stroustrup
