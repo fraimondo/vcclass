@@ -28,4 +28,4 @@ This manuscript has been written by:
 24. Shammi More
 25. Kimia Nazarzadeh
 26. Stroustrup
-27. Dijkstra
+27. Darkwing Duck
